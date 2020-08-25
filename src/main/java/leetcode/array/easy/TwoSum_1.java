@@ -48,5 +48,21 @@ public class TwoSum_1 {
     }
 
 
-    //TODO v3 with HashMap
+    //v3
+    //time - O(n)
+    //space - O(n)
+
+    public int[] twoSum_v3(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            int expected = target - nums[i];
+            if (map.containsKey(expected) && map.get(expected) != i) {
+                return new int[]{i, map.get(expected)};
+            }
+            map.put(nums[i], i);
+        }
+
+        return new int[]{};
+    }
 }
