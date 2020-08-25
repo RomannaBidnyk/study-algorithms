@@ -21,4 +21,7 @@ public class TwoSum_1 {
 
         return new int[]{};
     }
+
+
+    //TODO v2 and v3 with HashMap
 }
