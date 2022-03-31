@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.several.approaches;
 
 import java.util.HashSet;
 import java.util.Set;
