@@ -1,4 +1,4 @@
-package com.leetcode.recursion.easy;
+package com.leetcode.easy;
 
 import leetcode.easy.FibonacciNumber_509;
 import org.testng.Assert;
