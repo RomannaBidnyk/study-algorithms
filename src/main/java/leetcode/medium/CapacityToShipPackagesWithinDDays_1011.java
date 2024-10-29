@@ -1,4 +1,4 @@
-package leetcode.binary.search.medium;
+package leetcode.medium;
 
 public class CapacityToShipPackagesWithinDDays_1011 {
 

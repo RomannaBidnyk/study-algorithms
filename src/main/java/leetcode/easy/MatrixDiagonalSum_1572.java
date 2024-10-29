@@ -1,4 +1,4 @@
-package leetcode.matrix.easy;
+package leetcode.easy;
 
 
 public class MatrixDiagonalSum_1572 {

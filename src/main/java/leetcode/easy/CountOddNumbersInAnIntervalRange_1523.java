@@ -1,4 +1,4 @@
-package leetcode.math.easy;
+package leetcode.easy;
 
 public class CountOddNumbersInAnIntervalRange_1523 {
 

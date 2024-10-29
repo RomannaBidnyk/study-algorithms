@@ -1,6 +1,6 @@
-package com.leetcode.recursion.easy;
+package com.leetcode.easy;
 
-import leetcode.recursion.easy.FibonacciNumber_509;
+import leetcode.easy.FibonacciNumber_509;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
