@@ -1,4 +1,4 @@
-package leetcode.array.easy;
+package leetcode.easy;
 
 public class AverageSalaryExcludingMinimumAndMaximum_1491 {
 
